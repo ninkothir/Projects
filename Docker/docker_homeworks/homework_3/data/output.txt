@@ -1,0 +1,11 @@
+OS: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+OS version: #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025
+=== Мониторинг системы ===
+
+CPU usage: 30.9%
+
+Memory usage:
+Всего: 3.49 GB
+Используется: 0.58 GB
+Свободно: 2.91 GB
+Процент использования: 16.6%
